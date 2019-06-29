@@ -1,0 +1,2 @@
+/media/nas/public           192.168.0.0/24(ro,sync,no_subtree_check)
+/media/nas/private/ols      192.168.0.20(rw,sync,no_subtree_check)
